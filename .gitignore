@@ -1,0 +1,6 @@
+.idea
+logs_test
+syslogs
+.venv
+utils/env.py
+tests

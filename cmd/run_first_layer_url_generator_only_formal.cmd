@@ -1,0 +1,1 @@
+start cmd /k D:\code\nav-spider2\NAV_SPIDER_ENV\Scripts\python ..\spider\first_layer_url_generate_threads.py

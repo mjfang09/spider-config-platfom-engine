@@ -1,0 +1,1 @@
+start cmd /k D:\code\nav-spider2\NAV_SPIDER_ENV\Scripts\python ..\api\spider_api_new.py
